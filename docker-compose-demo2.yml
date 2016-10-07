@@ -1,4 +1,0 @@
-web:
-   image: drupal:7
-   volumes:
-    - ./video:/video
